@@ -1,0 +1,10 @@
+fastapi[all]
+langchain
+langchain-community
+langchain-core
+langchain-openai 
+line-bot-sdk
+pinecone-client
+pinecone-client 
+tiktoken
+uvicorn
