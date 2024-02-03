@@ -4,7 +4,6 @@ langchain-community
 langchain-core
 langchain-openai 
 line-bot-sdk
-pinecone-client
-pinecone-client 
+pinecone-client==2.2.1
 tiktoken
 uvicorn
